@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UnitTestingXUnit",
+    "\\UnitTestingXUnit\\StringManipulation",
+    "\\UnitTestingXUnit\\StringManipulation\\bin",
+    "\\UnitTestingXUnit\\StringManipulation\\bin\\Debug",
+    "\\UnitTestingXUnit\\StringManipulation\\bin\\Release",
+    "\\UnitTestingXUnit\\StringManipulation\\bin\\Release\\net7.0",
+    "\\UnitTestingXUnit\\StringManipulation\\obj",
+    "\\UnitTestingXUnit\\StringManipulation\\StringManipulation.Tests"
+  ],
+  "PreviewInSolutionExplorer": false
+}
