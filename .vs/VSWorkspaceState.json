@@ -10,5 +10,6 @@
     "\\UnitTestingXUnit\\StringManipulation\\obj",
     "\\UnitTestingXUnit\\StringManipulation\\StringManipulation.Tests"
   ],
+  "SelectedNode": "\\UnitTestingXUnit\\StringManipulation\\StringManipulation.Tests\\StringOperations.Test.cs",
   "PreviewInSolutionExplorer": false
 }
